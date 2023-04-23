@@ -55,7 +55,7 @@ if (isset($_POST['submit'])) {
     <link rel="shortcut icon" href="favicon.ico">
     <title>Penyuratan RT 07</title>
 </head>
-<body>
+<body class="body">
     <div class="container">
         <form action="" method="POST" class="login-email">
             <p class="login-text" style="font-size: 2rem; font-weight: 800;">Daftar</p>
