@@ -44,7 +44,7 @@ if (isset($_POST['submit'])) {
  
     <div class="container">
         <form action="" method="POST" class="login-email">
-            <p class="login-text" style="font-size: 1.5rem; font-weight: 800;"> Selamat datang di Penyuratan Online Warga RT. 07</p>
+            <p class="login-text" style="font-size: 1.5rem; font-weight: 800;"> Selamat datang di Surat Online Warga RT. 07</p>
             <p class="login-text" style="font-size: 1.2rem; font-weight: 600;"> Silahkan Login terlebih dahulu</p>
 
             <div class="input-group">
