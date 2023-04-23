@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="stylea.css">
     <title>Berhasil Login</title>
 </head>
-<body>
+<body class="body">
     <div class="container-logout">
             <?php echo "<h1> Selamat! Anda telah mendaftarkan akun anda " ?>
              
