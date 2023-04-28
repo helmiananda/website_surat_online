@@ -321,6 +321,14 @@ margin-top: 120px;
     margin-left: 120px;
  }
 
+ .inputdatasurat {
+
+    width: 1100px;
+    margin: auto;
+    position: relative;
+    margin-top: 20px;
+
+ }
 .surat {
     width: 500px;
 }
@@ -442,6 +450,10 @@ nav ul li a:hover {
     margin-top: 50px;
 }
 
+.kolompanduan {
+    margin-top: 50px;
+}
+
 .kolom .deskripsi {
     font-size: 20px;
     font-weight: bold;
@@ -500,11 +512,29 @@ p {
 
 
 
-@media screen and (max-width: 991.98px) {
+@media screen and (max-width: 800px) {
     .wrapper {
         width: 90%;
     }
 
+    .kolomaboutus {
+        
+        width: 90%;
+    }
+
+    .inputdatasurat {
+        
+        width: 90%;
+    }
+    .marginlrdownloadsurat {
+
+        width: 90px;
+        margin-left: 20px;
+    }
+    .kolompaduan {
+
+        width: 90%;
+    }
     
     nav .menu {
         width: 100%;
@@ -540,4 +570,26 @@ p {
         width: 0%;
     }
 
+    .surat {
+        
+        display: none;
+    }
+
+    .surataboutus {
+        
+        display: none;
+    }
+
+    .paragrafaboutus {
+        margin-top: 40px;
+    }
+    
+    .suratpaduan {
+        
+        display: none;
+    }
+
+    .kolompanduan {
+        margin-top: 0px;
+    }
 }
