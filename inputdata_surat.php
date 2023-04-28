@@ -38,7 +38,7 @@ if (isset($_POST["cari"])) {
             </div>
         </div>
     </nav>
-    <div class="wrapper">
+    <div class="inputdatasurat">
         <div class="margin">
             <div class="kolom">
 
